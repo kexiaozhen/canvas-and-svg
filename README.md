@@ -2,28 +2,11 @@
 
 ## Project setup
 ```
-npm install
+该项目使用vue-cli3搭建，运行直接npm run serve
 ```
 
-### Compiles and hot-reloads for development
+### project message
 ```
-npm run serve
+该项目主要分享echarts在vue项目中使用的两种方法。个人任何两种方法没啥差异，自己创建组件具有更高的可控性。
+同时比较svg和canvas的差异。写了两个时钟小组件。。。具体的代码都在src/component中
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
